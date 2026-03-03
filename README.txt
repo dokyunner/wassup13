@@ -1,6 +1,3 @@
 # wassup13
-test111
 
-0213_1305: 천천히여도 괜찮으니 끝까지 해보자
-0213_1317: png 업로드
-0219_1322: sprint 2 > dongcode.csv, xlsx 업로드
+TIL 작성 잘하기
